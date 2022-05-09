@@ -31,7 +31,7 @@ ___
 
 ## Hibridación: Netflix
 
-![](F:\Grado en Tecnicas de Interaccion Digital y Multimedia\Semestre 1\Cultura digital\PEC3\recursos\netflix.png)
+![](https://github.com/mirtor/PEC3_Manovich_Reloaded/blob/main/netflix.png)
 
 Un ejemplo muy empleado de hibridación es la influencia que ha tenido el cine sobre los videojuegos, consiguiendo que en los videojuegos actuales se incluyan largas escenas cinematográficas, en muchas ocasiones interpretadas por actores reales, más adelante modelados y añadidos a los  entornos 3D para videojuegos. En esta ocasión la **influencia** ha sido en sentido contrario, y los videojuegos y aplicaciones interactivas han influenciado al cine , logrando que Netflix publique la primera **película interactiva**, donde el usuario decide las acciones de distintos personajes a lo largo de la trama.
 
@@ -74,7 +74,7 @@ ___
 
 ## Hibridación: Smart TV
 
-![](F:\Grado en Tecnicas de Interaccion Digital y Multimedia\Semestre 1\Cultura digital\PEC3\recursos\smarttv.png)
+![](https://github.com/mirtor/PEC3_Manovich_Reloaded/blob/main/smarttv.png)
 
 
 En el caso de hibridación anterior ya se ha comentado la importancia de los nuevos **dispositivos inteligentes** para el desarrollo de las películas interactivas, y es precisamente uno de ellos, las **Smart TV**, otro caso de hibridación a analizar.
