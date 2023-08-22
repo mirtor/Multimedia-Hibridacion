@@ -1,9 +1,3 @@
-# PEC3_Manovich_Reloaded
-
-___
-
-
-
 # La hibridación de Manovich
 
 Es necesario aclarar las diferencias entre los principales términos empleados por **Manovich**, entre los que encontramos los medios, la multimedia, la remediación y la hibridación, términos que fácilmente llevan a equivocación. 
